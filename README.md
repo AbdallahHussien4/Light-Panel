@@ -1,5 +1,8 @@
 # Light-Panel using arduino uno.
 
+The simulation program is SIMULIDE (open source simulation).
+
+
 It is a 10*10 LEDs grid. This grid is controlled by a 10 keys keypad. The grid functionality as
 follows:
   The grid has two modes:
